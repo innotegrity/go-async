@@ -4,11 +4,11 @@
   <p>async/await for Golang.</p>
   <hr />
   <br />
-  <a href="https://pkg.go.dev/go.innotegrity.dev/slog" target="_blank">
+  <a href="https://pkg.go.dev/go.innotegrity.dev/async" target="_blank">
     <img src="https://img.shields.io/badge/go-reference-2a7d98?style=for-the-badge" />
   </a>
-  <a href="https://goreportcard.com/report/go.innotegrity.dev/slog" target="_blank">
-    <img src="https://goreportcard.com/badge/go.innotegrity.dev/slog?style=for-the-badge" />
+  <a href="https://goreportcard.com/report/go.innotegrity.dev/async" target="_blank">
+    <img src="https://goreportcard.com/badge/go.innotegrity.dev/async?style=for-the-badge" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/stability-alpha-pink?style=for-the-badge" />
